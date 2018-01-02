@@ -1,0 +1,3 @@
+[submodule "side-piece"]
+	path = side-piece
+	url = git@github.com:skitterm/side-part.git
